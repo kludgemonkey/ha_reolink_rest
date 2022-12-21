@@ -17,7 +17,7 @@ Untested, should work:
 NVR, most other IP ReoLink Cameras
 
 Will not work:
-Any camera that doe snot support a web interface, such as the Lumus, or the NVR only cameras Bxxx versions.
+Any camera that does not support a web interface, such as the Lumus, or the NVR only cameras Bxxx versions.
 
 Entities provided:
 Camera - one per channel, per stream type, per output type. Only primary output type is enabled and visible by default. Other output types (SUB/EXT) are hidden and other stream types (RTSP, MJPEG) are disabled, but present if needed.
